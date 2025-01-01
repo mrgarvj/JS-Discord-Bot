@@ -16,6 +16,8 @@ A Discord bot built using [discord.js](https://discord.js.org).
 4. Final command:
    ```bash
    node .
+   ```
          OR
+   ```bash
    node index.js
    ```
