@@ -1,0 +1,6 @@
+{
+    "token": "BOT_TOKEN",
+    "prefix": "!",
+    "client_id": "CLIENT_ID",
+    "mongoURL":"MONGODB_URL"
+}
