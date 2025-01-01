@@ -17,7 +17,7 @@ A Discord bot built using [discord.js](https://discord.js.org).
    ```bash
    node .
    ```
-         OR
+     OR
    ```bash
    node index.js
    ```
